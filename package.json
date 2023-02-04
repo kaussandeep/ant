@@ -1,0 +1,27 @@
+{
+  "name": "ant",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+"test:all": "npx playwright test"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaussandeep/ant.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaussandeep/ant/issues"
+  },
+  "homepage": "https://github.com/kaussandeep/ant#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.30.0"
+  }
+}
