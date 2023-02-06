@@ -1,5 +1,6 @@
 # ant
 
 To run tests
-npm install
-npm run test:all
+#npm install
+#npx playwright install
+#npm run test:all
