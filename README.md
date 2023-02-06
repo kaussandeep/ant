@@ -1,6 +1,6 @@
-# ant
+# ant. 
 
-To run tests
-#npm install
-#npx playwright install
-#npm run test:all
+To run tests. 
+#npm install. 
+#npx playwright install. 
+#npm run test:all. 
